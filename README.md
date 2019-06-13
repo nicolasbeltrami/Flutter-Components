@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+A second flutter app to teste different widgets.
 
 ## Getting Started
 
