@@ -1,6 +1,6 @@
 # componentes
 
-A second flutter app to teste different widgets.
+A second flutter app to test different widgets.
 
 ## Getting Started
 
